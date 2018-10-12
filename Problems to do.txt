@@ -1,0 +1,10 @@
+Kattis:
+countingtriangles
+narrowartgallery
+segmentintersection
+studying
+endoftheworld
+
+
+Important Algorithms:
+discuss.codechef.com/questions/18752
